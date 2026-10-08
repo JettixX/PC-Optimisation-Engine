@@ -1,0 +1,21 @@
+id,manufacturer,model,type,sizeMm,rgb,price
+1,Thermalright,Peerless Assassin 120 SE,Air,120,False,35.90
+2,Thermalright,Phantom Spirit 120 SE,Air,120,False,39.90
+3,Noctua,NH-D15,Air,140,False,109.95
+4,Noctua,NH-U12S chromax.black,Air,120,False,89.95
+5,be quiet!,Dark Rock Pro 4,Air,135,False,89.90
+6,be quiet!,Dark Rock Pro 5,Air,135,False,99.90
+7,Deepcool,AK620,Air,120,False,64.99
+8,Deepcool,AK400,Air,120,False,34.99
+9,Cooler Master,Hyper 212 Halo,Air,120,True,39.99
+10,Scythe,Fuma 3,Air,120,False,49.99
+11,Arctic,Liquid Freezer III 240,Liquid,240,False,89.99
+12,Arctic,Liquid Freezer III 360,Liquid,360,False,109.99
+13,Arctic,Liquid Freezer III 420 A-RGB,Liquid,420,True,139.99
+14,Corsair,iCUE H100i ELITE CAPELLIX XT,Liquid,240,True,149.99
+15,Corsair,iCUE H150i ELITE LCD XT,Liquid,360,True,259.99
+16,NZXT,Kraken 240,Liquid,240,False,139.99
+17,NZXT,Kraken Elite 360 RGB,Liquid,360,True,289.99
+18,Lian Li,Galahad II Trinity Performance 360,Liquid,360,True,169.99
+19,Deepcool,LS720 SE,Liquid,360,True,109.99
+20,ASUS,ROG Ryujin III 360,Liquid,360,True,349.99

@@ -1,0 +1,31 @@
+id,manufacturer,model,formFactor,maxGpuLengthMm,maxCoolerHeightMm,price
+1,Corsair,4000D Airflow,ATX Mid Tower,360,170,94.99
+2,Corsair,5000D Airflow,ATX Mid Tower,400,170,149.99
+3,Corsair,7000D Airflow,ATX Full Tower,450,190,249.99
+4,NZXT,H5 Flow,ATX Mid Tower,365,165,94.99
+5,NZXT,H7 Flow,ATX Mid Tower,400,185,129.99
+6,NZXT,H9 Flow,ATX Mid Tower,435,165,159.99
+7,Lian Li,PC-O11 Dynamic,ATX Mid Tower,420,155,139.99
+8,Lian Li,O11 Dynamic EVO,ATX Mid Tower,422,167,159.99
+9,Lian Li,O11 Vision,ATX Mid Tower,455,167,139.99
+10,Lian Li,Lancool 216,ATX Mid Tower,392,180.5,99.99
+11,Fractal Design,Meshify 2,ATX Mid Tower,491,185,159.99
+12,Fractal Design,Meshify 2 Compact,ATX Mid Tower,341,169,124.99
+13,Fractal Design,North,ATX Mid Tower,355,170,139.99
+14,Fractal Design,Torrent,ATX Mid Tower,461,188,189.99
+15,Phanteks,Eclipse G360A,ATX Mid Tower,400,162,89.99
+16,Phanteks,NV7,ATX Full Tower,450,185,219.99
+17,be quiet!,Pure Base 500DX,ATX Mid Tower,369,190,99.99
+18,be quiet!,Shadow Base 800 FX,ATX Mid Tower,430,180,219.99
+19,Cooler Master,MasterBox NR200P,Mini ITX,330,153,99.99
+20,Cooler Master,HAF 700 EVO,ATX Full Tower,490,166,499.99
+21,Hyte,Y60,ATX Mid Tower,375,160,189.99
+22,Hyte,Y70 Touch,ATX Mid Tower,390,180,359.99
+23,Montech,AIR 903 MAX,ATX Mid Tower,400,180,74.99
+24,Deepcool,CH560 Digital,ATX Mid Tower,380,175,119.99
+25,Thermaltake,Tower 300,Micro ATX,400,210,149.99
+26,SSUPD,Meshlicious,Mini ITX,336,73,119.99
+27,Fractal Design,Terra,Mini ITX,322,77,179.99
+28,Lian Li,A4-H2O,Mini ITX,322,55,154.99
+29,Corsair,2000D Airflow,Mini ITX,365,90,129.99
+30,Phanteks,Evolv X,ATX Mid Tower,435,190,189.99

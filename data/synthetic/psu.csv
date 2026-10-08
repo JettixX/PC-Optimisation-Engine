@@ -1,0 +1,31 @@
+id,manufacturer,model,wattage,efficiency,modular,price
+1,Corsair,CX650M,650,80+ Bronze,Semi,69.99
+2,EVGA,600 W1,600,80+ White,No,49.99
+3,Thermaltake,Smart 500W,500,80+ White,No,39.99
+4,Corsair,RM750e,750,80+ Gold,Full,99.99
+5,Corsair,RM850e,850,80+ Gold,Full,119.99
+6,Corsair,RM850x,850,80+ Gold,Full,139.99
+7,Corsair,RM1000x,1000,80+ Gold,Full,169.99
+8,Corsair,HX1000i,1000,80+ Platinum,Full,239.99
+9,Corsair,AX1600i,1600,80+ Titanium,Full,599.99
+10,Seasonic,FOCUS GX-750,750,80+ Gold,Full,109.99
+11,Seasonic,FOCUS GX-850,850,80+ Gold,Full,129.99
+12,Seasonic,FOCUS GX-1000,1000,80+ Gold,Full,159.99
+13,Seasonic,PRIME TX-1000,1000,80+ Titanium,Full,319.99
+14,EVGA,SuperNOVA 750 GT,750,80+ Gold,Full,109.99
+15,EVGA,SuperNOVA 850 GT,850,80+ Gold,Full,129.99
+16,EVGA,SuperNOVA 1000 G6,1000,80+ Gold,Full,179.99
+17,MSI,MAG A750GL PCIE5,750,80+ Gold,Full,99.99
+18,MSI,MAG A850GL PCIE5,850,80+ Gold,Full,114.99
+19,MSI,MEG Ai1300P PCIE5,1300,80+ Platinum,Full,339.99
+20,be quiet!,Pure Power 12 M 750W,750,80+ Gold,Full,109.99
+21,be quiet!,Pure Power 12 M 850W,850,80+ Gold,Full,129.99
+22,be quiet!,Dark Power 13 1000W,1000,80+ Titanium,Full,279.99
+23,Thermaltake,Toughpower GF3 850W,850,80+ Gold,Full,119.99
+24,Thermaltake,Toughpower GF3 1200W,1200,80+ Gold,Full,199.99
+25,NZXT,C750 Gold,750,80+ Gold,Full,104.99
+26,NZXT,C850 Gold,850,80+ Gold,Full,124.99
+27,ASUS,ROG Strix 850G,850,80+ Gold,Full,149.99
+28,ASUS,ROG Thor 1000W Platinum II,1000,80+ Platinum,Full,299.99
+29,FSP,Hydro G Pro 850W,850,80+ Gold,Full,119.99
+30,Cooler Master,MWE Gold 850 V2,850,80+ Gold,Full,109.99

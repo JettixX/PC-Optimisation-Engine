@@ -1,0 +1,31 @@
+id,manufacturer,model,memoryType,speedMhz,capacityGb,modules,casLatency,rgb,price
+1,Corsair,Vengeance LPX,DDR4,3200,16,2,16,False,39.99
+2,Corsair,Vengeance LPX,DDR4,3600,32,2,18,False,69.99
+3,G.Skill,Ripjaws V,DDR4,3200,16,2,16,False,38.99
+4,G.Skill,Ripjaws V,DDR4,3600,32,2,18,False,65.99
+5,Crucial,Ballistix,DDR4,3200,16,2,16,False,42.99
+6,TeamGroup,T-Force Vulcan Z,DDR4,3200,16,2,16,False,35.99
+7,Kingston,FURY Beast,DDR4,3200,32,2,16,False,68.99
+8,Corsair,Vengeance RGB Pro,DDR4,3200,16,2,16,True,49.99
+9,Corsair,Vengeance RGB Pro,DDR4,3600,32,2,18,True,89.99
+10,G.Skill,Trident Z RGB,DDR4,3600,16,2,18,True,55.99
+11,G.Skill,Trident Z Neo,DDR4,3600,32,2,16,True,99.99
+12,TeamGroup,T-Force Delta RGB,DDR4,3600,16,2,18,True,45.99
+13,Kingston,FURY Renegade RGB,DDR4,3600,32,2,16,True,94.99
+14,Silicon Power,XPOWER Zenith,DDR4,3200,16,2,16,False,32.99
+15,Patriot,Viper Steel,DDR4,3600,16,2,18,False,37.99
+16,Corsair,Vengeance,DDR5,5200,32,2,40,False,89.99
+17,Corsair,Vengeance,DDR5,6000,32,2,30,False,109.99
+18,Corsair,Vengeance RGB,DDR5,6000,32,2,30,True,119.99
+19,Corsair,Dominator Titanium,DDR5,7200,48,2,34,True,229.99
+20,G.Skill,Flare X5,DDR5,6000,32,2,30,False,99.99
+21,G.Skill,Trident Z5 Neo RGB,DDR5,6000,32,2,30,True,114.99
+22,G.Skill,Trident Z5 RGB,DDR5,6400,32,2,32,True,124.99
+23,G.Skill,Trident Z5 RGB,DDR5,7200,32,2,34,True,149.99
+24,TeamGroup,T-Create Expert,DDR5,6000,32,2,30,False,94.99
+25,TeamGroup,T-Force Delta RGB,DDR5,6400,32,2,40,True,104.99
+26,Kingston,FURY Beast,DDR5,5600,32,2,40,False,95.99
+27,Crucial,Pro,DDR5,5600,32,2,46,False,84.99
+28,Lexar,ARES RGB,DDR5,6400,32,2,32,True,109.99
+29,ADATA,XPG Lancer RGB,DDR5,6000,32,2,30,True,105.99
+30,Corsair,Vengeance,DDR5,6400,64,2,32,False,209.99
